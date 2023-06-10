@@ -1,0 +1,33 @@
+[
+  
+      {
+        "categoria": "salsa",
+        "titulo": "hablame",
+        "linkVideo": "https://www.youtube.com/watch?v=XWXbHb9tmT4",
+        "linkImagen": "https://lastfm.freetls.fastly.net/i/u/ar0/2905528fb6706e98837dae229ba93cf7.jpg",
+        "description": "frankie ruiz",
+        "cogidoSeguridad": "1",
+        "color": "red"
+      },
+      {
+        "categoria": "salsa",
+        "titulo": "amor a medio tiempo",
+        "linkVideo": "https://www.youtube.com/watch?v=GSnhfpHV-QI",
+        "linkImagen": "https://i1.sndcdn.com/artworks-yrBKW6wkZgOGj4BL-f3I1iQ-t500x500.jpg",
+        "description": "cano estremera",
+        "cogidoSeguridad": "2",
+        "color": "red"
+      },      
+      {
+        "categoria": "vallenato",
+        "titulo": "recuerdame",
+        "linkVideo": "https://www.youtube.com/watch?v=30sT9KLWxWM",
+        "linkImagen": "https://static.qobuz.com/images/covers/wa/bn/xex6nkzp2bnwa_600.jpg",
+        "cogidoSeguridad": "3",
+        "color": "blue"
+      }
+    
+    
+]
+
+

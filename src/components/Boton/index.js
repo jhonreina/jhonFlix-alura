@@ -12,6 +12,8 @@ const StyledButton = styled.button`
   font-weight: 600;
   line-height: 24px;
   font-style: normal;
+  background: rgba(0, 0, 0, 0.9);
+  color:#fff
 `;
 
 const Boton = (props) => {
